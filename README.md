@@ -2,7 +2,8 @@
 ## Overview of Project
 The challenge involved providing a potential investor with requested information on a business venture. 
 The investor required running some analytics on a weather dataset. I used SQLite, SQLAlchemy, Flask & 
-Python to develop these analytics. My code can be found in “SurfsUp_Challenge.ipynb.  </p>
+Python to develop these analytics.
+
 
 ## Project Steps
 The investor requested information about temperature trends before opening the venture. Specifically, 
@@ -27,6 +28,13 @@ There are three key differences in the weather between June and December:
 *	June has much higher minimum temperature than December, 8.0 degrees higher, but only 2.0 degrees 
 	higher for the maximum temperature.
 *	June has a lower standard deviation, 3.26, than December, 3.75. </p>
+
+![image](https://user-images.githubusercontent.com/100445489/165592498-a8b50a9a-5031-42ed-a7e3-c047376aa183.png)
+
+![image](https://user-images.githubusercontent.com/100445489/165592536-af8a17bb-3259-447e-955e-ff6c7a0e62f7.png)
+
+
+
 
 ## Summary
 The Oahu, HI weather analysis indicates that June has higher temperatures than December as measured 
