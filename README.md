@@ -15,24 +15,10 @@ database to retrieve all the temperatures for the month of June and December. I 
 temperatures to respective lists, created DataFrames from each list, and generated the summary 
 statistics from each dataframe. </p>
 
-## Challenges
-I experienced challenges in learning SQLite and SQLAlchemy. These were much less intuitive than using 
-PostgresSQL and pgAdmin. There were additional steps required for SQLite and SQLAlchemy to complete 
-the challenge as compared to PostgreSQL and pgAdmin. I much prefer to develop databases and queries 
-using PostgresSQL and pgAdmin. </p>
 
-## Results
 
-### Deliverables
-I developed two deliverables to complete the process:
 
-* the June historical weather summary statistics (see image below) and 
 
-	![jun_temps.png](https://github.com/Robertfnicholson/Surfs_up/blob/5cff673e2af7715b86debb5439489bc1aa661a70/jun_temps.png)
-
-* the December historical weather summary statistics (see image below).
-
-	![dec_temps.png](https://github.com/Robertfnicholson/Surfs_up/blob/c228cec56070d5037b5910c96595961af4f07e87/dec_temps.png) </p>
 
 ### Key Differences in Weather Between June and December
 There are three key differences in the weather between June and December:
